@@ -13,7 +13,7 @@
 | ACL_全分组 Dream修改版 | https://v1.mk/TUyh3zc |
 | ACL_精简分组 Dream修改版 | https://v1.mk/DGjKiHn |
 
-**Clash推荐使用FlClash客户端（支持Win 安卓）**
+**Clash推荐使用FlClash客户端（支持 Win Android Mac）**
 
 * https://github.com/chen08209/FlClash
 
