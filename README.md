@@ -80,6 +80,17 @@ https://www.xrayvip.com/free.yaml
 * **做出违法行为需要承担法律责任，侥幸逃脱是不可能的!**
 * 为阻止违法行为，本项目随时可以停止运行！！！
 
+## Star History
+
+支持开发者的最简单方式是点击页面顶部的星标（⭐）。
+
+<p style="text-align: center;">
+    <a href="https://api.star-history.com/svg?repos=katesotyy/Proxy-Hub&Date">
+        <img alt="start" width=50% src="https://api.star-history.com/svg?repos=katesotyy/Proxy-Hub&Date"/>
+    </a>
+</p>
+
+
 ### License
 
 MIT
