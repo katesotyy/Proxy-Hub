@@ -9,9 +9,9 @@
 | 规则配置 | 订阅链接 |
 | ------ | ------ |
 | 默认（自动测速）| https://v1.mk/2ZMBdKZ |
-|默认（附带用于 Clash 的 AdGuard DNS） | https://v1.mk/7NEtiOE |
-| ACL_全分组 Dream修改版 | https://v1.mk/CtN43Tq |
-| ACL_精简分组 Dream修改版 | https://v1.mk/MDrhnP9 |
+|默认（附带用于 Clash 的 AdGuard DNS） | https://v1.mk/UxgPyo6 |
+| ACL_全分组 Dream修改版 | https://v1.mk/TUyh3zc |
+| ACL_精简分组 Dream修改版 | https://v1.mk/DGjKiHn |
 
 **Clash推荐使用FlClash客户端（支持Win 安卓）**
 
@@ -22,27 +22,31 @@
 ##### Clash
 
 **默认（自动测速）**
+**Proxy-Hub**
 * **原始链接：** 
   ```
   https://subconverters.com/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2Fpeasoft%2FNoMoreWalls%2Fmaster%2Flist.yml%7Chttps%3A%2F%2Fraw.githubusercontent.com%2Froosterkid%2Fopenproxylist%2Fmain%2FV2RAY_BASE64.txt%7Chttps%3A%2F%2Fwww.xrayvip.com%2Ffree.yaml&insert=true&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_AdblockPlus.ini&filename=Proxy-Hub&append_type=true&tls13=true&sort=true&emoji=true&list=false&xudp=true&udp=true&tfo=true&expand=true&scv=false&fdn=true&new_name=true
   ```
 
 **默认（附带用于 Clash 的 AdGuard DNS）**
+**Proxy-Hub_ADG**
 * **原始链接：** 
   ```
-  https://subconverters.com/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2Fpeasoft%2FNoMoreWalls%2Fmaster%2Flist.yml%7Chttps%3A%2F%2Fraw.githubusercontent.com%2Froosterkid%2Fopenproxylist%2Fmain%2FV2RAY_BASE64.txt%7Chttps%3A%2F%2Fwww.xrayvip.com%2Ffree.yaml&insert=true&config=https%3A%2F%2Fgist.githubusercontent.com%2Ftindy2013%2F1fa08640a9088ac8652dbd40c5d2715b%2Fraw%2Fdefault_with_clash_adg.yml&filename=Proxy-Hub&append_type=true&tls13=true&sort=true&emoji=true&list=false&xudp=true&udp=true&tfo=true&expand=true&scv=false&fdn=true&new_name=true
+  https://subconverters.com/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2Fpeasoft%2FNoMoreWalls%2Fmaster%2Flist.yml%7Chttps%3A%2F%2Fraw.githubusercontent.com%2Froosterkid%2Fopenproxylist%2Fmain%2FV2RAY_BASE64.txt%7Chttps%3A%2F%2Fwww.xrayvip.com%2Ffree.yaml&insert=true&config=https%3A%2F%2Fgist.githubusercontent.com%2Ftindy2013%2F1fa08640a9088ac8652dbd40c5d2715b%2Fraw%2Fdefault_with_clash_adg.yml&filename=Proxy-Hub_ADG&append_type=true&tls13=true&sort=true&emoji=true&list=false&xudp=true&udp=true&tfo=true&expand=true&scv=false&fdn=true&new_name=true
   ```
 
 **ACL_全分组 Dream修改版**
+**Proxy-Hub_ACL_all**
 * **原始链接：** 
   ```
-  https://subconverters.com/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2Fpeasoft%2FNoMoreWalls%2Fmaster%2Flist.yml%7Chttps%3A%2F%2Fraw.githubusercontent.com%2Froosterkid%2Fopenproxylist%2Fmain%2FV2RAY_BASE64.txt%7Chttps%3A%2F%2Fwww.xrayvip.com%2Ffree.yaml&insert=true&config=https%3A%2F%2Fraw.githubusercontent.com%2FWC-Dream%2FACL4SSR%2FWD%2FClash%2Fconfig%2FACL4SSR_Online_Full_Dream.ini&filename=Proxy-Hub&append_type=true&tls13=true&sort=true&emoji=true&list=false&xudp=true&udp=true&tfo=true&expand=true&scv=false&fdn=true&new_name=true
+  https://subconverters.com/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2Fpeasoft%2FNoMoreWalls%2Fmaster%2Flist.yml%7Chttps%3A%2F%2Fraw.githubusercontent.com%2Froosterkid%2Fopenproxylist%2Fmain%2FV2RAY_BASE64.txt%7Chttps%3A%2F%2Fwww.xrayvip.com%2Ffree.yaml&insert=true&config=https%3A%2F%2Fraw.githubusercontent.com%2FWC-Dream%2FACL4SSR%2FWD%2FClash%2Fconfig%2FACL4SSR_Online_Full_Dream.ini&filename=Proxy-Hub_ACL_all&append_type=true&tls13=true&sort=true&emoji=true&list=false&xudp=true&udp=true&tfo=true&expand=true&scv=false&fdn=true&new_name=true
   ```
 
 **ACL_精简分组 Dream修改版**
+**Proxy-Hub_ACL_lite**
 * **原始链接：** 
   ```
-  https://subconverters.com/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2Fpeasoft%2FNoMoreWalls%2Fmaster%2Flist.yml%7Chttps%3A%2F%2Fraw.githubusercontent.com%2Froosterkid%2Fopenproxylist%2Fmain%2FV2RAY_BASE64.txt%7Chttps%3A%2F%2Fwww.xrayvip.com%2Ffree.yaml&insert=true&config=https%3A%2F%2Fraw.githubusercontent.com%2FWC-Dream%2FACL4SSR%2FWD%2FClash%2Fconfig%2FACL4SSR_Mini_Dream.ini&filename=Proxy-Hub&append_type=true&tls13=true&sort=true&emoji=true&list=false&xudp=true&udp=true&tfo=true&expand=true&scv=false&fdn=true&new_name=true
+  https://subconverters.com/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2Fpeasoft%2FNoMoreWalls%2Fmaster%2Flist.yml%7Chttps%3A%2F%2Fraw.githubusercontent.com%2Froosterkid%2Fopenproxylist%2Fmain%2FV2RAY_BASE64.txt%7Chttps%3A%2F%2Fwww.xrayvip.com%2Ffree.yaml&insert=true&config=https%3A%2F%2Fraw.githubusercontent.com%2FWC-Dream%2FACL4SSR%2FWD%2FClash%2Fconfig%2FACL4SSR_Mini_Dream.ini&filename=Proxy-Hub_ACL_lite&append_type=true&tls13=true&sort=true&emoji=true&list=false&xudp=true&udp=true&tfo=true&expand=true&scv=false&fdn=true&new_name=true
   ```
 
 
